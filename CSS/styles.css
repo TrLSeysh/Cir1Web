@@ -1,6 +1,23 @@
 body {
     background-color: #2C2F33;
 }
+#homebar {
+    display: flex;
+}
 h1 {
-    
+    color: white;
+    font-family: 'Trebuchet MS';
+    margin-top: 60px;
+    font-size: 80px;
+    margin-left:20px;
+}
+.icon {
+    margin-top: 0px;
+    width:180px;
+    height:180px;
+
+}
+.icon:hover {
+    opacity: 50%;
+    transition: 1s;
 }
