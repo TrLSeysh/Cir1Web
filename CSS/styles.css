@@ -6,15 +6,16 @@ body {
 }
 h1 {
     color: white;
+    background-color: silver;
     font-family: 'Trebuchet MS';
     margin-top: 60px;
-    font-size: 80px;
-    margin-left:20px;
+    font-size: 60px;
+    margin-left:40px;
 }
 .icon {
     margin-top: 0px;
-    width:180px;
-    height:180px;
+    width:160px;
+    height:160px;
 
 }
 .icon:hover {
